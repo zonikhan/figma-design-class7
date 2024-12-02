@@ -1,5 +1,5 @@
 
-import ProjectCard from "@/Components/ProjectCard";
+import ProjectCard from "@/components/ProjectCard";
 import { TiArrowDown } from "react-icons/ti"
 
 import project1 from "../../public/images/dining on the lack png.webp"

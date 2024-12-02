@@ -6,7 +6,7 @@ import {
   Sheet,
   SheetContent,
   SheetTrigger,
-} from "@/Components/ui/sheet"
+} from "@/components/ui/sheet"
 
 const Header = () => {
   return (
