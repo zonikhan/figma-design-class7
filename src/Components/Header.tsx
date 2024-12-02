@@ -31,7 +31,7 @@ const Header = () => {
       </ul>
   <Sheet>
   <SheetTrigger className="md:hidden block"><HiOutlineMenuAlt3 className="text-3xl" /></SheetTrigger>
-  <SheetContent>
+  <SheetContent className="">
   <ul className="flex flex-col gap-4 border-b-2 py-5 items-center text-[#181717] font-semibold text-xl">
         <li>
             <Link className="hover:underline" href={"/"}>Work</Link>
